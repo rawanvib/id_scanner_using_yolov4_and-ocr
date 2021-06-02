@@ -1,9 +1,11 @@
-# id_scanner_using_yolov4_and-ocr
+https://drive.google.com/file/d/1agIisEJJ9f2dXFoRTdCFphko8ZfKe3HQ/view?usp=sharing# id_scanner_using_yolov4_and-ocr
 Extracted text using ocr techniques and created dataset out of it
 
 ##National_IDs_Images_Front_100-1
 
 Training yolov4 for custom model and applying pytessearct to extract text
+
+weights of our custom dataset : https://drive.google.com/file/d/1agIisEJJ9f2dXFoRTdCFphko8ZfKe3HQ/view?usp=sharing
 
 IDE :- Jupyter Notebook
 
